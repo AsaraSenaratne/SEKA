@@ -29,7 +29,7 @@ Following Python packages are used in the project.
 ## Execute the project
 Download the project from:
 ```
-https://www.dropbox.com/sh/0k59vbce81ya71z/AAAxWoNRAyXDA86-TvhVQU_Aa?dl=0
+https://github.com/AsaraSenaratne/SEKA.git
 ```
 
 Install the required packages:
