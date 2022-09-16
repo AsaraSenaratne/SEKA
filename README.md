@@ -1,7 +1,7 @@
 # SEKA : Seeking Knowledge Graph Anomalies
 
 ## Introduction
-This is an open access repository produced as a part of research conducted contributing towards a PhD in Computer Science. The development of this project is still under progress.
+This is an open access repository produced as a part of research conducted contributing towards a PhD in Computer Science. The development of this project is still under progress. Hence, there will be frequent source code commits.
 
 This repository provides the implementation of an approach to unsupervised anomaly detection in knowledge graphs. We first 
 characterize triples in a directed edge-labelled knowledge graph using a set of binary features, and then employ a one-class support vector machine classifier to classify these
@@ -59,7 +59,7 @@ https://yago-knowledge.org/downloads/yago-1
 ````
 
 
-The .py files in the folder runs in the following order:
+The .py files in the folder run in the following order:
 
 (1) triple_features.py
 (2) entity_features.py
