@@ -1,6 +1,8 @@
 # SEKA : Seeking Knowledge Graph Anomalies
 
 ## Introduction
+This is an open access repository produced as a part of research conducted contributing towards a PhD in Computer Science. This research is still under progress.
+
 This repository provides the implementation of an approach to unsupervised anomaly detection in knowledge graphs. We first 
 characterize triples in a directed edge-labelled knowledge graph using a set of binary features, and then employ a one-class support vector machine classifier to classify these
 triples  as normal or abnormal. 
@@ -64,9 +66,3 @@ The .py files in the folder runs in the following order:
 (3) svm_training.py
 
 Additionally, if you wish to inject anomalies to the KGs, use the implementation in ink.py.
-
-For ease of exploring task 2 of our approach, which is target predicate fact anomaly detection, we have used a sample
-predicate (http://yago-knowledge.org/resource/bornIn) from YAGO-1 in triple_features.py. We have also provided 
-sample_persons.csv for you to explore task 3 of our approach, target type entity anomaly detection. By using these
-pre fetched data, you can eliminate the need of populating the graph from a raw file, thus reducing the need of 
-having a high performance computer.
