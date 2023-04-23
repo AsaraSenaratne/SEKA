@@ -65,4 +65,4 @@ The .py files in the folder run in the following order:
 (2) entity_features.py
 (3) svm_training.py
 
-If you wish to generate synthetic anomalies in a KG, use the implementation in ink.py. This is referred as TRIC, a triples corrupter for KGs.
+If you wish to generate synthetic anomalies in a KG, use the implementation in tric.py. This is a triples corrupter for KGs. Complete implementation of TRIC will soon be available as a Python library.
