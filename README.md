@@ -66,3 +66,5 @@ The .py files in the folder run in the following order:
 (3) svm_training.py
 
 If you wish to generate synthetic anomalies in a KG, use the implementation in tric.py. This is a triples corrupter for KGs. Complete implementation of TRIC will soon be available as a Python library.
+
+The feature library proposed for anomaly detection in KGs can be accessed here: https://github.com/AsaraSenaratne/anomaly-detection-kg.git
